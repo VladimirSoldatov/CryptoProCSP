@@ -5,3 +5,10 @@ C:\Users\Владимир\source\repos\КриптоПро\obj\Debug\Крипто
 C:\Users\Владимир\source\repos\КриптоПро\obj\Debug\КриптоПро.csproj.CoreCompileInputs.cache
 C:\Users\Владимир\source\repos\КриптоПро\obj\Debug\КриптоПро.exe
 C:\Users\Владимир\source\repos\КриптоПро\obj\Debug\КриптоПро.pdb
+C:\Users\vladimir.soldatov\Source\Repos\CryptoProCSP\bin\Debug\КриптоПро.exe.config
+C:\Users\vladimir.soldatov\Source\Repos\CryptoProCSP\bin\Debug\КриптоПро.exe
+C:\Users\vladimir.soldatov\Source\Repos\CryptoProCSP\bin\Debug\КриптоПро.pdb
+C:\Users\vladimir.soldatov\Source\Repos\CryptoProCSP\obj\Debug\КриптоПро.csprojAssemblyReference.cache
+C:\Users\vladimir.soldatov\Source\Repos\CryptoProCSP\obj\Debug\КриптоПро.csproj.CoreCompileInputs.cache
+C:\Users\vladimir.soldatov\Source\Repos\CryptoProCSP\obj\Debug\КриптоПро.exe
+C:\Users\vladimir.soldatov\Source\Repos\CryptoProCSP\obj\Debug\КриптоПро.pdb

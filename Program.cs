@@ -34,12 +34,18 @@ namespace КриптоПро
                     text += registeredOwner;
                     
                 };
-    
 
-                StreamWriter f = new StreamWriter("test.txt", true);
-                f.WriteLine(text);
-                f.Close();
-                
+
+                Console.WriteLine("Сохранить ключ в файл CPro_key.txt?(y/n)");
+                string answer = Console.ReadLine();
+                if (answer == "y")
+                {
+                    Console.WriteLine("Введите папку сохранения ключа или нажмите Enter (файл будет сохраненен в папке рядом с данной программой, например D:\\)");
+                    string file_path = Console.ReadLine();
+                    StreamWriter f = new StreamWriter(@file_path + "CPro_key.txt", true);
+                    f.WriteLine(text);
+                    f.Close();
+                }
             };
             
 
