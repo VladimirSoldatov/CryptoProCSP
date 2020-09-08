@@ -30,12 +30,10 @@ namespace КриптоПро
                     var registeredOwner = key.GetValue("ProductID");
                     Console.WriteLine("Ваш ключ {0} скопирован в буфер обмена", registeredOwner);
                     Clipboard.SetText(registeredOwner.ToString());
-                    Console.WriteLine("Теперь можно Ctrl + C");
+                    Console.WriteLine("Теперь можно Ctrl + V");
                     text += registeredOwner;
                     
                 };
-
-
                 Console.WriteLine("Сохранить ключ в файл CPro_key.txt?(y/n)");
                 string answer = Console.ReadLine();
                 if (answer == "y")
@@ -46,6 +44,7 @@ namespace КриптоПро
                     f.WriteLine(text);
                     f.Close();
                 }
+                
             };
             
 
